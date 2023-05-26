@@ -20,7 +20,7 @@ let dados={
 }
 
 const buscarDados=()=>{
-    const endpoint="https://get-e-set.marcelosuarez6.repl.co"
+    const endpoint="https://get-e-set.marcelosuarez9.repl.co"
     fetch(endpoint)
     .then(res=>res.json())
     .then(res=>{
